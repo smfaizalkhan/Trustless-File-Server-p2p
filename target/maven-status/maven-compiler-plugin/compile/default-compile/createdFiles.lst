@@ -1,0 +1,7 @@
+com\radixdlt\trustlessfileserver\commons\RadixUtil.class
+com\radixdlt\trustlessfileserver\service\RadixTrustFileService.class
+com\radixdlt\trustlessfileserver\domain\ValidityDetails.class
+com\radixdlt\trustlessfileserver\domain\FileDetails.class
+com\radixdlt\trustlessfileserver\RadixTrustFileServer.class
+com\radixdlt\trustlessfileserver\domain\FileDetails$FileDetailsBuilder.class
+com\radixdlt\trustlessfileserver\domain\ValidityDetails$ValidityDetailsBuilder.class
