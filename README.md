@@ -16,7 +16,7 @@
    
   ### Test case
   
-   - test_getBinaryContentAndItsProofPieces_AndAbleToRecreate_Tree() method is the way peice integrity will ve verified on the client side
+   - test_getBinaryContentAndItsProofPieces_AndAbleToRecreate_Tree() method is the way peice integrity will be verified on the client side
   
     
     
