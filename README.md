@@ -19,8 +19,8 @@
    - test_getBinaryContentAndItsProofPieces_AndAbleToRecreate_Tree() method is the way peice integrity will be verified on the client side
   
   ### EndPoints
-   
-    - Used spark/gson for REST API
+  
+   - Spark for REST EndPoints
     
     
   
